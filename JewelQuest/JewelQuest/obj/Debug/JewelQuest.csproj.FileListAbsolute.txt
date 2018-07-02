@@ -1,0 +1,7 @@
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\obj\Debug\JewelQuest.csprojAssemblyReference.cache
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\obj\Debug\JewelQuest.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\bin\Debug\JewelQuest.exe.config
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\bin\Debug\JewelQuest.exe
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\bin\Debug\JewelQuest.pdb
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\obj\Debug\JewelQuest.exe
+C:\Users\jacob\Documents\Projects\JewelQuest\JewelQuest\obj\Debug\JewelQuest.pdb

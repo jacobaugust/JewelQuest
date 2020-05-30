@@ -31,7 +31,7 @@ namespace JewelQuest
         }
         public void AdventureSelector()
         {
-            Console.WriteLine("\n\nVerithin sets off on his quest for the Wisdom Jewel and must make his first choice:\nthe path through the caves of Mount Skull or the Enchanted Forest of Galidon.\n\nEach path presents its own unique foes and potential obstacles.\n\nType mountain or cave to continue your quest!\n\n");
+            Console.WriteLine("\n\nVerithin sets off on his quest for the Wisdom Jewel and must make his first choice:\nthe path through the caves of Mount Skull or the Enchanted Forest of Galidon.\n\nEach path presents its own unique foes and potential obstacles.\n\nType mountain or forest to continue your quest!\n\n");
             string adventureSelection = Console.ReadLine();
             switch (adventureSelection)
             {
